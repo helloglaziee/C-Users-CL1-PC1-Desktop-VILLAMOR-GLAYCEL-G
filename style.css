@@ -25,9 +25,9 @@ header {
 }
 
 .profile-pic {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
   margin-bottom: 10px;
 }
 
@@ -74,6 +74,10 @@ h2 {
   color: #fff;
   padding: 6px 12px;
   border-radius: 4px;
+  
+}
+li:hover{
+  background-color: #adabc4;
 }
 
 .project {
